@@ -41,9 +41,9 @@
 
 ## 📁 Χρήσιμα Αρχεία (στο repo)
 
-- [grub_config.txt.txt](https://github.com/user-attachments/files/21631876/Text.Document.2.txt)
-- [ufw_rules.txt](https://github.com/user-attachments/files/21631465/Text.Document.txt)
-- [dnscrypt_proxy_config.conf.txt](https://github.com/user-attachments/files/21632846/Text.Document.3.txt)
+- [`grub_config..txt`](https://github.com/user-attachments/files/21631876/Text.Document.2.txt)
+- [`ufw_rules.txt`](https://github.com/user-attachments/files/21631465/Text.Document.txt)
+- [`dnscrypt_proxy_config.conf.`](https://github.com/user-attachments/files/21632846/Text.Document.3.txt)
 
 
 ---
